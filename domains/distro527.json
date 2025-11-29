@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/is-a-dev/register/main/static/schema.json",
+  "domain": "infra.is-a.dev",
+  "owner": {
+    "email": "Distro.527@outlook.com"
+  },
+  "record": {
+    "CNAME": "example.com"
+  }
+}
